@@ -23,7 +23,4 @@ value1;value2;value3;value4;value5;value6;value7;value8;value9;value10;value11;v
 # How it should work
 
 You have to click the circles on the screen until they disappear, in this way your are focusing your eyes on a memorized region of the screen
-and while you click on the circle the camera will capture the image, so be sure your camera can see your face.
-
-
-So for e
+and while you click on the circle the camera will capture the image, so be sure your camera can see your face
